@@ -2,7 +2,7 @@ python-docx==0.8.10
 pyttsx3==2.90
 keras==2.11.0
 tensorflow==2.10.0
-pandas==1.5.2
+pandas==1.4.0
 Pillow==9.3.0
 numpy==1.22.1
 Werkzeug==2.2.0
